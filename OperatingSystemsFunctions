@@ -1,3 +1,7 @@
 One function of an operating system is security.
 The OS utilizes ways to confirm the correct user is accesssing the computer.
 A password can be used to protect the users information.
+
+Another function of an operating system is the coordination between harware components.
+Each hardware component uses different 'languages' to process information.
+The operating system takes information from one component and translates it so a different component can process it.
