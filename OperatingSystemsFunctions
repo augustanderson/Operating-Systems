@@ -5,3 +5,7 @@ A password can be used to protect the users information.
 Another function of an operating system is the coordination between harware components.
 Each hardware component uses different 'languages' to process information.
 The operating system takes information from one component and translates it so a different component can process it.
+
+One last function of an operating system is file/data management.
+The operating system creates a structure for the data management of the user.
+The user can then view, add, delete, copy, paste, etc.. any of the files.
